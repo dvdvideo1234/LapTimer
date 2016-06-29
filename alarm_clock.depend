@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1467106818 source:e:\documents\codeblocks-projs\alarm_clock\main.cpp
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	"time_interval.h"
+
+1467106772 e:\documents\codeblocks-projs\alarm_clock\time_interval.h
+
