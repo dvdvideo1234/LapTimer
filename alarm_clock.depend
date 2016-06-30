@@ -7,3 +7,13 @@
 
 1467106772 e:\documents\codeblocks-projs\alarm_clock\time_interval.h
 
+1467288387 source:e:\documents\codeblocks-projs\laptimer\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"time_interval.h"
+
+1467288172 e:\documents\codeblocks-projs\laptimer\time_interval.h
+	<time.h>
+
